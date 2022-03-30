@@ -1,0 +1,595 @@
+.body{
+  width: 100%;
+}
+.logo{
+  font-size: 150%; color: grey; margin-left: -26%; margin-top: 7%;
+}
+.logo1{
+  color: blue; font-size: 130%; margin-left: 2%;height: 50%; margin-top: 10%;
+}
+.nav2-right{
+    font-size: 150%;
+    color: black;
+}
+.row{
+  width: 80%;
+}
+
+/*navbar 1*/
+.navbar-nav{
+  margin-left: 50%;
+}
+
+/*carousel*/
+
+
+.carousel-caption p{
+  width: 51%; margin-left: -12%; margin-top: 2%;
+}
+.carousel1-button{
+      margin-left: -105%;
+  }
+.car h1{
+  margin-left: -12%; margin-top: -22%; width: 38%;
+
+}
+.car1 h1{
+  margin-left: -12%; margin-top: -22%; width: 58%;
+
+}
+.car2 h3{
+  margin-left: -12%; margin-top: -22%; width: 43%;
+
+}
+.car3 h3{
+  margin-left: -12%; margin-top: -22%; width: 34%;
+
+}
+  
+
+  .para{
+    font-size: 250%; text-align: center; color: blue;
+  }
+
+  /*content-1*/
+
+  .con{
+    display: flex;height: 231px; background-color: blue; margin-bottom: 10%;
+  }
+  .con1{
+    display: flex; flex-direction: column;align-items: center;justify-content: center; width: 50%;
+
+  }
+  .con2{
+    font-size: large; color: white;
+
+  }
+  .con3{
+    width: 70%; margin-top: 5%; color: white;
+
+  }
+
+
+  /*back-card*/
+  .back-card{
+    display: flex;
+    justify-content: space-around;
+    
+    
+  }
+  .back-card1{
+    background-image: url('./images/office1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    height: 300px;
+    margin-top: 3%;
+    
+    width: 40%;
+    
+    
+    
+  }
+  .back-card1 div{
+    font-size: 200%;
+    text-align: center;
+    padding-top: 15%;
+    color: white;
+    background-color: black; height: 93%; width: 50%; opacity: 0.5; margin-top: 24.3%;
+    width: 100%;
+    height: 59%;
+
+  }
+  .back-card2{
+    background-image: url('./images/office2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    height: 300px;
+    margin-top: 3%;
+    
+    width: 40%;
+    
+    
+  }
+  .back-card2 div{
+    font-size: 200%;
+    text-align: center;
+    padding-top: 15%;
+    color: white;
+    background-color: black; height: 93%; width: 50%; opacity: 0.5; margin-top: 24.3%;
+    width: 100%;
+    height: 59%;
+
+  }
+
+
+
+
+
+
+
+  .back-card3{
+    background-image: url('./images/office1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    height: 300px;
+    margin-top: 3%;
+    
+    width: 40%;
+    
+    
+    
+  }
+  .back-card3 div{
+    font-size: 200%;
+    text-align: center;
+    padding-top: 15%;
+    color: white;
+    background-color: black; height: 93%; width: 50%; opacity: 0.5; margin-top: 24.3%;
+    width: 100%;
+    height: 59%;
+
+  }
+  .back-card4{
+    background-image: url('./images/office4.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    height: 300px;
+    margin-top: 3%;
+    
+    width: 40%;
+    
+    
+  }
+  .back-card4 div{
+    font-size: 200%;
+    text-align: center;
+    padding-top: 15%;
+    color: white;
+    background-color: black; height: 93%; width: 50%; opacity: 0.5; margin-top: 24.3%;
+    width: 100%;
+    height: 59%;
+
+  }
+  
+
+
+
+  /* background content*/
+
+
+  .back-cont{
+    background-image: url('./images/backg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    height: 600px;
+    margin-top: 10%;
+    
+  }
+
+
+
+  /*cards*/
+
+  .ha{
+    display: flex; justify-content: space-around;
+  }
+  .card{
+    width: 400px;
+  }
+  .ha img{
+    width:100%;height: 54%;
+  }
+  
+
+  /* background content 2*/
+
+
+.back-cont1{
+    background-image: url('./images/beach.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    height: 600px;
+    margin-top: 10%;
+    padding-top: 5%;
+    
+  }
+.back-cont1a{
+  background-color: black; height: 93%; width: 50%; opacity: 0.8; margin-left: 5%; padding-top: 3%;
+}
+
+.back-cont1b{
+  color: white;font-size: 350%; margin-left: 5%;
+}
+
+/*footer*/
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  
+  
+  padding: 10px;
+}
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px 0;
+  font-size: 100%;
+}
+
+.grid-container > div p{
+  color: blue;
+  font-size: 150%;
+  font-weight: 600;
+}
+.grid-container > div div a{
+  text-decoration: none;
+  color: black;
+  
+}
+
+/*static*/
+
+.a{
+  text-align: center;
+  transform: rotate(90deg);
+  width: 10%;
+  height: 60%;
+  font-size: 100%;
+  position: fixed;
+  top: 30%;
+  right: -5%;
+  width: 15%;
+  height: 6%;
+}
+.b{
+  text-align: center;
+  width: 13%;
+  height: 20%;
+  color: white;
+  font-size: 100%;
+  position: fixed;
+  top: 90%;
+  right: 3%;
+  width: 13%;
+  height: 5%;
+}
+
+/*form*/
+.form1{
+  color: blue; font-size: 400%; font-weight: 500; text-align: center;margin-top: 5%;
+
+}
+.form2{
+  text-align: center;font-size: 150%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* media queries*/
+
+@media (min-width: 0px) and (max-width: 480px){
+
+  .grid-container{
+    diplay: 
+  }
+  .item1{
+    width: 
+  }
+  .but0{
+    width: 135%;
+  }
+  .but{
+    width: 135%;
+    text-align: center;
+  }
+  .form1{
+    width: 135%;
+    
+    font-size: 26px;
+
+  }
+  .form2{
+    width: 135%;
+    
+    font-size: 20px;
+
+
+  }
+  .back-cont1{
+    width: 135%;
+    height: auto;
+  }
+  .back-cont1a{
+    height: auto;
+    width: 62%;
+
+  }
+  .back-cont1b{
+    font-size: 100%;
+  }
+  .ha{
+    display: block;
+    width: 135%;
+  }
+  .card{
+    width: 100%;
+  }
+  .back-cont{
+    width: 135%;
+    height: 0%;
+  }
+  .con{
+    
+    width: 135%;
+  }
+  .con2{
+    font-size: 100%;
+  }
+  .con3{
+    font-size: 82%;
+  }
+  .carousel1-button{
+    width: 40%;
+    height: 15%;
+    font-size: 80%;
+  }
+  .para{
+    font-size: 121%;
+    width: 135%;
+  }
+  .carousel{
+    width: 135%;
+    height: auto;
+  }
+  .car h1{
+    width: 122%;
+
+  }
+  .car1 h1{
+    width: 122%;
+
+  }
+  .car2 h3{
+    width: 122%;
+
+  }
+  .car3 h3{
+    width: 122%;
+
+  }
+  .carousel1-button{
+    margin-left: 3%;
+  }
+  .carousel-caption p{
+    margin-left: 23%;
+  }
+  .navbar-nav{
+    margin-left: 5%;
+    
+  }
+  .navbar{
+    width: 135%;
+  }
+  .row{
+    width: 135%;
+  }
+  .alert{
+    width:135%;
+  }
+  .grid-container{
+    width: 135%;
+    display: flex;
+    flex-direction: column;
+  }
+  .item1 p,div{
+    
+    width: 
+  }
+  .item2{
+    width: 
+    margin-top: -2%;
+    
+  }
+  .item3{
+    margin-top: 5%;
+  }
+  .back-card{
+    display: flex;
+    flex-direction: column;
+    width:135%;
+  }
+  .back-card1{
+    width:80%;
+    margin-left: 10%;
+    
+  }
+  .back-card2{
+    width:80%;
+    margin-left: 10%;
+    
+  }
+  .back-card3{
+    width:80%;
+    margin-left: 10%;
+    
+  }
+  .back-card4{
+    width:80%;
+    margin-left: 10%;
+    
+  }
+  .ser{
+    font-size: 100%;
+  }
+  .ser1{
+    font-size: 90%;
+  }
+  .ser1a{
+    font-size: 100%;
+  }
+  .a{
+    font-size: 90%;
+    right: -13%;
+    width: 30%;
+    height: 3%;
+  }
+  .b{
+    font-size: 100%;
+    width: 20%;
+    height: 3%;
+  }
+  .logo{
+    margin-left: -19%;
+    margin-top: 5%;
+  }
+  .logo1{
+    margin-top: 6%;
+  }
+}
+
+
+
+@media (min-width: 481px) and (max-width: 768px){
+
+  .con{
+    height: 0%;
+  }
+  .grid-container{
+    display: flex;
+    flex-direction: column;
+  }
+  .ha{
+    display: flex;
+    flex-direction: column;
+  }
+  .card{
+    width: 100%;
+  }
+  .back-card{
+    display: flex;
+    flex-direction: column;
+    
+    
+    width:100%;
+  }
+  .back-card1{
+    width:80%;
+    margin-left: 10%;
+    margin-bottom: 3%;
+    
+  }
+  .back-card2{
+    width:80%;
+    margin-left: 10%;
+    margin-bottom: 3%;
+    
+  }
+  .back-card3{
+    width:80%;
+    margin-left: 10%;
+    margin-bottom: 3%;
+    
+  }
+  .back-card4{
+    width:80%;
+    margin-left: 10%;
+    margin-bottom: 3%;
+    
+  }
+  .card{
+    width: 80%;
+    margin-left: 10%;
+    padding: 10%;
+  }
+
+  .ser{
+    font-size: 100%;
+  }
+  .ser1{
+    font-size: 100%;
+  }
+  .ser1a{
+    font-size: 100%;
+  }
+  .carousel1-button{
+    margin-left: -76%;
+  }
+  .a{
+    font-size: 90%;
+    top: 52%;
+    right: -4%;
+    
+  }
+  .b{
+    font-size: 70%;
+    top: 90%;
+  }
+  .back-cont1b{
+    font-size: 220%;
+    
+  }
+  .back-cont1a{
+    height: 80%;
+  }
+  .back-cont1{
+    padding-top: 30%;
+  }
+  .logo{
+    margin-left: -18%;
+    margin-top: 5%;
+  }
+  .logo1{
+  margin-top: 6%;
+}
+
+@media (min-width: 769px) and (max-width: 1024px){
+
+  .a{
+    height: 20%;
+  }
+  
+
+  
+
+}
+
+/* fitting perfect for 1280px   so not written that media query*/
